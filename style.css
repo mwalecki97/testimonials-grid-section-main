@@ -1,0 +1,289 @@
+body {
+    background-color: #edf1f8;
+    font-size: 13px;
+    font-family: 'Barlow Semi Condensed';
+    color: white;
+}
+
+.main {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -335px;
+    margin-left: -684px;
+}
+
+.line1 {
+    display: flex;
+}
+
+.box1{
+    width: 642px;
+    background-color: #733ec9;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 0px;
+    height: 300px;
+    
+}
+
+.avatar0 {
+    float: left;
+    margin-right: 15px;
+    border-radius: 100%;
+    margin-bottom: 1px;
+    width: 32px;
+    border: 1px solid;
+    border-color: hsl(0, 100%, 100%, 0.5);
+    margin-left: 15px;
+}
+
+.textheader1{
+    margin: 15px;
+    margin-top: 0px;
+    position: relative;
+    bottom:100px
+}
+
+#h2-0 {
+    font-weight: 500;
+    margin-bottom: 1px;
+    opacity: 0.8;
+    font-size: 15px;
+}
+
+.verified {
+    margin-top: 2px;
+    opacity: 0.5;
+}
+
+.quot1 {
+    opacity: 0.5;
+    margin: 15px;
+    line-height: 1.4;
+    position: relative;
+    bottom: 100px;
+    font-size: 15px;
+}
+
+#quottation {
+    position: relative;
+    left: 430px;
+    height: 120px
+}
+
+.header1 {
+    position: relative;
+    bottom: 110px;
+}
+
+
+
+.box2 {
+    width: 250px;
+    height: 290px;
+    background-color: #49546b;
+    margin-left: 30px;
+    border-radius: 10px;
+    padding: 30px;
+    padding-top: 0px;
+}
+
+.avatar1 {
+    float: left;
+    margin-right: 15px;
+    border-radius: 100%;
+    width: 32px;
+    border: 1px solid;
+    border-color: hsl(0, 100%, 100%, 0.5);
+}
+
+.h2-1 {
+    font-weight: 500;
+    margin-bottom: 1px;
+    opacity: 0.8;
+    font-size: 15px;
+}
+
+.header2 {
+    margin-top: 26px;
+}
+
+.textheader2 {
+    margin-top: 22px;
+    margin-bottom: 15px;
+}
+
+.quot2{
+    opacity: 0.5;
+    line-height: 1.4;
+    font-size: 15px;
+}
+
+
+.box3 {
+    width: 250px;
+    height: 640px;
+    background-color: #fffeff;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 30px;
+    padding-top: 0px;
+    position: relative;
+    bottom: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 5px 7px 29px 0px;
+}
+
+.h2-3 {
+    color: hsl(217, 19%, 35%);
+    font-weight: 500;
+    margin-bottom: 1px;
+    opacity: 0.8;
+    font-size: 15px;
+}
+
+.verified3 {
+    color: hsl(217, 19%, 35%);
+    margin-top: 2px;
+    opacity: 0.5;
+}
+
+.textheader3 {
+    color: #1c273b;
+    opacity: 0.7;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.quot3 {
+    color: black;
+    opacity: 0.4;
+    line-height: 1.5;
+    padding: 3px;
+    font-size: 15px;
+}
+
+
+
+.line2 {
+    display:flex;
+}
+
+.box4 {
+    width: 250px;
+    height: 300px;
+    background-color: #fffeff;
+    position: relative;
+    padding: 20px;
+    padding-top: 0px;
+    bottom: 330px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 5px 17px 29px 0px;
+}
+
+
+
+.avatar4 {
+    float: left;
+    margin-right: 17px;
+    border-radius: 100%;
+    width: 32px;
+    border: 1px solid;
+    border-color: hsl(0, 100%, 100%, 0.5);
+    margin-left: 14px;
+    margin-top: 12px;
+}
+
+.h2-4 {
+    color: hsl(217, 19%, 35%);
+    font-weight: 500;
+    margin-bottom: 1px;
+    opacity: 0.8;
+    font-size: 15px;
+    position: relative;
+    top: 13px;
+}
+
+.verified4 {
+    color: hsl(217, 19%, 35%);
+    margin-top: 2px;
+    opacity: 0.5;
+    position: relative;
+    top: 13px;
+}
+
+.textheader4 {
+    color: #1c273b;
+    opacity: 0.7;
+    margin-top: 37px;
+    margin-left: 14px;
+}
+
+.quot4 {
+    color: black;
+    opacity: 0.4;
+    line-height: 1.5;
+    padding: 3px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+
+.box5 {
+    width: 660px;
+    height: 300px;
+    background-color: #18202d;
+    position: relative;
+    padding: 20px;
+    padding-top: 0px;
+    bottom: 330px;
+    border-radius: 10px;
+    margin-left: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 5px 7px 29px 0px;
+}
+
+.avatar5 {
+    float: left;
+    margin-right: 17px;
+    border-radius: 100%;
+    width: 32px;
+    border: 2px solid;
+    border-color: hsl(263, 55%, 52%);
+    margin-left: 14px;
+    margin-top: 12px;
+}
+
+.h2-5 {
+    color: #fffeff;
+    font-weight: 500;
+    margin-bottom: 1px;
+    opacity: 0.8;
+    font-size: 15px;
+    position: relative;
+    top: 13px;
+}
+
+.verified5 {
+    color: hsl(0, 0%, 81%);
+    margin-top: 2px;
+    opacity: 0.5;
+    position: relative;
+    top: 13px;
+}
+
+.textheader5 {
+    color: white;
+    opacity: 0.9;
+    margin-top: 37px;
+    margin-left: 14px;
+}
+
+.quot5 {
+    color: hsl(0, 0%, 81%);
+    opacity: 0.8;
+    line-height: 1.5;
+    padding: 3px;
+    font-size: 15px;
+    margin-left: 10px;
+}
