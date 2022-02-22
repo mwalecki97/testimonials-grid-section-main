@@ -1,5 +1,10 @@
 # Frontend Mentor - Testimonials grid section
 
+        top: 50%;
+        left: 50%;
+        margin-top: -600px;
+        margin-left: -175px;
+
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋

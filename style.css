@@ -24,7 +24,6 @@ body {
     padding: 20px;
     padding-top: 0px;
     height: 300px;
-    
 }
 
 .avatar0 {
@@ -286,4 +285,97 @@ body {
     padding: 3px;
     font-size: 15px;
     margin-left: 10px;
+}
+
+
+
+@media (max-width: 1400px) {
+
+    .main {
+        position: relative;
+        top: 0%;
+        left: 0%;
+        margin-top: 0px;
+        margin-left: 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .line1 {
+        display: inline-block;
+    }
+
+    .line2 {
+        display: inline-block;
+    }
+
+    .box1{
+        width: 310px;
+        height: 550px;
+        background-color: #733ec9;
+        border-radius: 10px;
+        position: relative;
+        padding: 20px;
+        left: 175px;
+        padding-top: 0px;
+    }
+
+    #quottation {
+        position: relative;
+        left: 140px;
+        height: 120px
+    }
+
+    .box2 {
+        width: 290px;
+        height: 290px;
+        margin-left: 0px;
+        position: relative;
+        margin-top: 30px;
+        border-radius: 10px;
+        padding: 30px;
+        left: 175px;
+        padding-top: 10px;
+    }
+
+    .box3 {
+        width: 290px;
+        height: 550px;
+        margin-left: 0px;
+        margin-top: 40px;
+        padding: 30px;
+        padding-top: 10px;
+        position: relative;
+        left: 175px;
+        bottom: 10px;
+    }
+
+    .box4 {
+        width: 290px;
+        height: 230px;
+        background-color: #fffeff;
+        position: relative;
+        right: 175px;
+        top: 1840px;
+        margin-top: 30px;
+        padding-top: 0px;
+        padding-right: 40px;
+    }
+
+    .box5 {
+        width: 290px;
+        height: 550px;
+        background-color: #18202d;
+        position: relative;
+        right: 175px;
+        top: 940px;
+        padding: 30px;
+        padding-top: 0px;
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+
+
 }
