@@ -321,6 +321,10 @@ body {
         padding-top: 0px;
     }
 
+    .header2 {
+        margin-top: 16px;
+    }
+
     #quottation {
         position: relative;
         left: 180px;
@@ -332,7 +336,7 @@ body {
         height: 290px;
         margin-left: 0px;
         position: relative;
-        margin-top: 30px;
+        margin-top: 40px;
         border-radius: 10px;
         padding: 30px;
         left: 175px;
@@ -349,8 +353,9 @@ body {
         position: relative;
         left: 175px;
         bottom: 10px;
-        top: 900px;
+        top: 890px;
     }
+
 
     .box4 {
         width: 290px;
@@ -364,6 +369,21 @@ body {
         padding-right: 40px;
     }
 
+    .avatar4 {
+        margin-left: 14px;
+        margin-top: 22px;
+
+    }
+    
+    .h2-4 {
+        top: 21px;
+    }
+    
+    .verified4 {
+        top: 21px;
+    }
+
+
     .box5 {
         width: 290px;
         height: 550px;
@@ -375,7 +395,23 @@ body {
         padding-top: 0px;
         margin-left: 0px;
         margin-top: 30px;
+        padding-bottom: 10px;
     }
+
+
+    .avatar5 {
+        margin-left: 14px;
+        margin-top: 25px;
+    }
+    
+    .h2-5 {
+        top: 25px;
+    }
+    
+    .verified5 {
+        top: 25px;
+    }
+
 
 
 
